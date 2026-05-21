@@ -2,6 +2,8 @@
 
 A browser-based tool for re-pivoting nested JSON. If you have JSON whose leaves all share a common shape — for example tickers nested under `sector → industry` — you can rearrange how the data is grouped without rewriting it by hand.
 
+Deployed on Vercel — try it [here](https://json-hierarchy-editor.vercel.app/).
+
 ## What it does
 
 Given input like this:
